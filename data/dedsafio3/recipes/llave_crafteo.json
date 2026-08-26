@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aab",
+    "  c"
+  ],
+  "key": {
+    "a": {
+      "item": "dedsafio3:metalrecocido"
+    },
+    "b": {
+      "item": "minecraft:copper_block"
+    },
+    "c": {
+      "item": "minecraft:air"
+    }
+  },
+  "result": {
+    "item": "dedsafio3:key",
+    "count": 1
+  }
+}

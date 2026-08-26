@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "dedsafio3:block/batidora_legendaria"
+    },
+    "facing=east": {
+      "model": "dedsafio3:block/batidora_legendaria",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "dedsafio3:block/batidora_legendaria",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dedsafio3:block/batidora_legendaria",
+      "y": 270
+    }
+  }
+}

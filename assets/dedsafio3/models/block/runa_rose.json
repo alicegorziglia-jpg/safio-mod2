@@ -1,0 +1,9 @@
+{
+  "parent": "dedsafio3:custom/runarose",
+  "textures": {
+    "all": "dedsafio3:block/runarose",
+    "particle": "dedsafio3:block/runarose",
+    "1": "dedsafio3:block/runarose"
+  },
+  "render_type": "solid"
+}

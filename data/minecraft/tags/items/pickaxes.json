@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "dedsafio3:nereida_extractor",
+    "dedsafio3:limbo_extractor",
+    "dedsafio3:borg_extractor",
+    "dedsafio3:overworld_extractor",
+    "dedsafio3:nether_extractor"
+  ]
+}

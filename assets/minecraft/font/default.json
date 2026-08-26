@@ -1,0 +1,18 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:blanco.png",
+            "ascent": 1080,
+            "height": 1920,
+            "chars": ["\uF999"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:cake.png",
+            "ascent": 75,
+            "height": 82,
+            "chars": ["\uF998"]
+        }
+
+]}

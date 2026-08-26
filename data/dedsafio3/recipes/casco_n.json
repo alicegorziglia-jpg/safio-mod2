@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "dedsafio3:mejoria_dilitio"
+  },
+  "base": {
+    "item": "dedsafio3:infernal_armor_helmet"
+  },
+  "addition": {
+    "item": "dedsafio3:motordedilitio"
+  },
+  "result": {
+    "item": "dedsafio3:espacial_naoneim_armor_helmet"
+  }
+}

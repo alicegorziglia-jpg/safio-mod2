@@ -1,0 +1,7 @@
+{
+  "parent": "dedsafio3:custom/deditarosa",
+  "textures": {
+    "2": "dedsafio3:block/deditarosa",
+    "particle": "minecraft:item/empty_slot_diamond"
+  }
+}

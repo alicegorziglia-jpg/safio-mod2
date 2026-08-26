@@ -1,0 +1,9 @@
+{
+  "parent": "dedsafio3:custom/runared",
+  "textures": {
+    "all": "dedsafio3:block/runared",
+    "particle": "dedsafio3:block/runared",
+    "2": "dedsafio3:block/runared"
+  },
+  "render_type": "solid"
+}

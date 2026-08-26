@@ -1,0 +1,79 @@
+{
+  "ghosthit": {
+    "subtitle": "subtitles.ghosthit",
+    "sounds": [
+      {
+        "name": "dedsafio3:ghosthit",
+        "stream": false
+      }
+    ]
+  },
+  "ghost.ambient": {
+    "subtitle": "subtitles.ghost.ambient",
+    "sounds": [
+      {
+        "name": "dedsafio3:ghost.ambient",
+        "stream": false
+      }
+    ]
+  },
+  "ghost.death": {
+    "subtitle": "subtitles.ghost.death",
+    "sounds": [
+      {
+        "name": "dedsafio3:death",
+        "stream": false
+      }
+    ]
+  },
+  "flashbang": {
+    "subtitle": "subtitles.flashbang",
+    "sounds": [
+      {
+        "name": "dedsafio3:flashbang",
+        "stream": false
+      }
+    ]
+  },
+  "gorgondie": {
+    "sounds": [
+      {
+        "name": "dedsafio3:gorgon_die",
+        "stream": false
+      }
+    ]
+  },
+  "gorgonrisa": {
+    "sounds": [
+      {
+        "name": "dedsafio3:gorgon_idle_0",
+        "stream": false
+      }
+    ]
+  },
+  "gorgonidle": {
+    "sounds": [
+      {
+        "name": "dedsafio3:gorgon_idle_1",
+        "stream": false
+      }
+    ]
+  },
+  "gorgonhurt": {
+    "sounds": [
+      {
+        "name": "dedsafio3:gorgon_hurt_0",
+        "stream": false
+      }
+    ]
+  },
+  "ring": {
+    "subtitle": "subtitles.ring",
+    "sounds": [
+      {
+        "name": "dedsafio3:ring",
+        "stream": false
+      }
+    ]
+  }
+}

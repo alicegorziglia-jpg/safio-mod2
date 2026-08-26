@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:golden_apple"
+    },
+    "b": {
+      "item": "dedsafio3:boost_vacio"
+    }
+  },
+  "result": {
+    "item": "dedsafio3:boost",
+    "count": 1
+  }
+}

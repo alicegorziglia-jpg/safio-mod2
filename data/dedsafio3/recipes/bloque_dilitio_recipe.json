@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dedsafio3:gema_dilitio"
+    }
+  },
+  "result": {
+    "item": "dedsafio3:bloque_dilitio",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:shulker_shell"
+    },
+    "b": {
+      "item": "minecraft:bundle"
+    }
+  },
+  "result": {
+    "item": "dedsafio3:shulkerbag",
+    "count": 1
+  }
+}

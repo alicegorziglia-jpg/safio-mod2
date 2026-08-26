@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "dedsafio3:block/rusty_wall_slabs"
+    },
+    "type=top": {
+      "model": "dedsafio3:block/rusty_wall_slabs_top"
+    },
+    "type=double": {
+      "model": "dedsafio3:block/rusty_wall_slabs_full"
+    }
+  }
+}

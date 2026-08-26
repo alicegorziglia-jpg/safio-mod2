@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    " a ",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "dedsafio3:metalrecocido"
+    },
+    "b": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "dedsafio3:espada_inanimada",
+    "count": 1
+  }
+}

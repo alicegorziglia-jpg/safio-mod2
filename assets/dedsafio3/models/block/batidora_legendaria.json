@@ -1,0 +1,9 @@
+{
+  "parent": "dedsafio3:custom/batidoralegendaria",
+  "textures": {
+    "all": "dedsafio3:block/batidoralegendaria",
+    "particle": "dedsafio3:block/batidoralegendaria",
+    "1": "dedsafio3:block/batidoralegendaria"
+  },
+  "render_type": "solid"
+}

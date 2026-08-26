@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aba",
+    " c "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:diamond_block"
+    },
+    "b": {
+      "item": "dedsafio3:reforced_glass"
+    },
+    "c": {
+      "item": "minecraft:music_disc_5"
+    }
+  },
+  "result": {
+    "item": "dedsafio3:overworld_extractor",
+    "count": 1,
+    "nbt": "{Damage:200}"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cac",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "dedsafio3:gema_nereida"
+    },
+    "b": {
+      "item": "dedsafio3:placa_corona"
+    },
+    "c": {
+      "item": "dedsafio3:bloque_dilitio"
+    }
+  },
+  "result": {
+    "item": "dedsafio3:motordedilitio",
+    "count": 1
+  }
+}

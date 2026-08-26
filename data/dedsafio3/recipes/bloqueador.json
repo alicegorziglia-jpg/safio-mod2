@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "def"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:redstone"
+    },
+    "b": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "c": {
+      "item": "minecraft:orange_dye"
+    },
+    "d": {
+      "item": "minecraft:slime_ball"
+    },
+    "e": {
+      "item": "minecraft:glass_bottle"
+    },
+    "f": {
+      "item": "minecraft:blaze_powder"
+    }
+  },
+  "result": {
+    "item": "dedsafio3:procectorsolar",
+    "count": 1
+  }
+}

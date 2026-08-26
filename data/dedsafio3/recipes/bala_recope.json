@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "dedsafio3:pepita_dilitio"
+    },
+    "b": {
+      "item": "dedsafio3:metalrecocido"
+    }
+  },
+  "result": {
+    "item": "dedsafio3:bala",
+    "count": 1
+  }
+}

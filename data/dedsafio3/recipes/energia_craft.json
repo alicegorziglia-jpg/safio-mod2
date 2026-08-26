@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "dedsafio3:gema_dilitio"
+    },
+    "b": {
+      "item": "dedsafio3:energia_vacio"
+    }
+  },
+  "result": {
+    "item": "dedsafio3:energia",
+    "count": 1
+  }
+}

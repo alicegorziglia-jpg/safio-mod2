@@ -1,0 +1,9 @@
+{
+  "parent": "dedsafio3:custom/blockdilitio",
+  "textures": {
+    "all": "dedsafio3:block/dilitio",
+    "particle": "dedsafio3:block/dilitio",
+    "2": "dedsafio3:block/dilitio"
+  },
+  "render_type": "solid"
+}

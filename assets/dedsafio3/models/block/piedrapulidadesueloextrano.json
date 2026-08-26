@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "dedsafio3:block/piedrapulidablablabla",
+    "particle": "dedsafio3:block/piedrapulidablablabla"
+  },
+  "render_type": "solid"
+}

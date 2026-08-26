@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "ada"
+  ],
+  "key": {
+    "a": {
+      "item": "dedsafio3:gema_dilitio"
+    },
+    "b": {
+      "item": "dedsafio3:metalrecocido"
+    },
+    "c": {
+      "item": "minecraft:netherite_upgrade_smithing_template"
+    },
+    "d": {
+      "item": "dedsafio3:golden_black_steel_ingot"
+    }
+  },
+  "result": {
+    "item": "dedsafio3:mejoria_dilitio",
+    "count": 1
+  }
+}

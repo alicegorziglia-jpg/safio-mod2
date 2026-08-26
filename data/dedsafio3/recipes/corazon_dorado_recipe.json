@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "dedsafio3:nereida_nugget"
+    },
+    "b": {
+      "item": "dedsafio3:pata_rana"
+    },
+    "c": {
+      "item": "dedsafio3:ojo_rana"
+    },
+    "d": {
+      "item": "minecraft:golden_apple"
+    }
+  },
+  "result": {
+    "item": "dedsafio3:corazon_dorado",
+    "count": 1
+  }
+}

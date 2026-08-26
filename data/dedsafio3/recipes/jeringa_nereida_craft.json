@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aba",
+    " c "
+  ],
+  "key": {
+    "a": {
+      "item": "dedsafio3:gema_nereida"
+    },
+    "b": {
+      "item": "dedsafio3:reforced_glass"
+    },
+    "c": {
+      "item": "dedsafio3:raiz"
+    }
+  },
+  "result": {
+    "item": "dedsafio3:nereida_extractor",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "dedsafio3:block/runa_yellow"
+    },
+    "facing=east": {
+      "model": "dedsafio3:block/runa_yellow",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "dedsafio3:block/runa_yellow",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dedsafio3:block/runa_yellow",
+      "y": 270
+    }
+  }
+}

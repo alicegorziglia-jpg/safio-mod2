@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "dedsafio3:item/placa_de_corona_de_wildfirer"
+  }
+}

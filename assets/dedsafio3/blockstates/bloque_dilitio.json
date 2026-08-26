@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "dedsafio3:block/bloque_dilitio"
+    },
+    "facing=east": {
+      "model": "dedsafio3:block/bloque_dilitio",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "dedsafio3:block/bloque_dilitio",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dedsafio3:block/bloque_dilitio",
+      "y": 270
+    }
+  }
+}

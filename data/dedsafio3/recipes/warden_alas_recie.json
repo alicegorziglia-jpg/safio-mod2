@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dedsafio3:ala_warden"
+    }
+  },
+  "result": {
+    "item": "dedsafio3:montonde_alas",
+    "count": 1
+  }
+}

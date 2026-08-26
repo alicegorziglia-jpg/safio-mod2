@@ -1,0 +1,9 @@
+{
+  "parent": "dedsafio3:custom/runayelow",
+  "textures": {
+    "all": "dedsafio3:block/runayellow",
+    "particle": "dedsafio3:block/runayellow",
+    "2": "dedsafio3:block/runayellow"
+  },
+  "render_type": "solid"
+}

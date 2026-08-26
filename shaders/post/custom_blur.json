@@ -1,0 +1,13 @@
+{
+  "targets": [
+    "minecraft:main" 
+  ],
+  "passes": [
+    {
+      "name": "blur",
+      "intarget": "minecraft:main",
+      "outtarget": "minecraft:main",
+      "program": "dedsafio3:shaders/program/custom_blur"
+    }
+  ]
+}

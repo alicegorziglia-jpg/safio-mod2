@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "dedsafio3:blocks/epitelio_plano_estratificado_no_queratinizado",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "dedsafio3:epitelio_plano_estratificado_no_queratinizado"
+        }
+      ]
+    }
+  ]
+}

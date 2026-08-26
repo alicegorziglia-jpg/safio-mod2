@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "dedsafio3:block/bloque_de_pared_oxidado",
+    "particle": "dedsafio3:block/bloque_de_pared_oxidado"
+  },
+  "render_type": "solid"
+}

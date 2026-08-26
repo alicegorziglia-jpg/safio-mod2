@@ -1,0 +1,25 @@
+{ 
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aba",
+    " c "
+  ],
+  "key": {
+    "a": {
+      "item": "dedsafio3:placa_corona"
+    },
+    "b": {
+      "item": "dedsafio3:reforced_glass"
+    },
+    "c": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "dedsafio3:nether_extractor",
+    "count": 1,
+    "nbt": "{Damage:200}"
+  }
+}

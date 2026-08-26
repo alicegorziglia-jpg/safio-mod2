@@ -1,0 +1,9 @@
+{
+  "parent": "dedsafio3:custom/runacelest",
+  "textures": {
+    "all": "dedsafio3:block/runacelest",
+    "particle": "dedsafio3:block/runacelest",
+    "1": "dedsafio3:block/runacelest"
+  },
+  "render_type": "solid"
+}

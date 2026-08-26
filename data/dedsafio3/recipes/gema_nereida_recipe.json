@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dedsafio3:nereida_nugget"
+    }
+  },
+  "result": {
+    "item": "dedsafio3:gema_nereida",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "dedsafio3:block/polished_limbo_slab"
+    },
+    "type=top": {
+      "model": "dedsafio3:block/polished_limbo_slab_top"
+    },
+    "type=double": {
+      "model": "dedsafio3:block/polished_limbo_slab_full"
+    }
+  }
+}

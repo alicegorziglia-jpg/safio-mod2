@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cde",
+    "afa"
+  ],
+  "key": {
+    "a": {
+      "item": "dedsafio3:metalrecocido"
+    },
+    "b": {
+      "item": "dedsafio3:nether_extractor_filled"
+    },
+    "c": {
+      "item": "dedsafio3:borg_extractor_filled"
+    },
+    "d": {
+      "item": "dedsafio3:limbo_extractor_filled"
+    },
+    "e": {
+      "item": "dedsafio3:nereida_extractor_filled"
+    },
+    "f": {
+      "item": "dedsafio3:overworld_extractor_filled"
+    }
+  },
+  "result": {
+    "item": "dedsafio3:mejoria_espacial",
+    "count": 4
+  }
+}

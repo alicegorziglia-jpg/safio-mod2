@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "def",
+    " g "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "b": {
+      "item": "minecraft:golden_apple"
+    },
+    "c": {
+      "item": "minecraft:spider_eye"
+    },
+    "d": {
+      "item": "minecraft:slime_ball"
+    },
+    "e": {
+      "item": "minecraft:echo_shard"
+    },
+    "f": {
+      "item": "minecraft:nether_wart"
+    },
+    "g": {
+      "item": "dedsafio3:emptycapsule"
+    }
+  },
+  "result": {
+    "item": "dedsafio3:blue_capsule",
+    "count": 1
+  }
+}

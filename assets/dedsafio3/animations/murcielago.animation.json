@@ -1,0 +1,120 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"walk": {
+			"loop": true,
+			"bones": {
+				"leftWingTip": {
+					"rotation": {
+						"vector": [0, "math.cos(query.life_time * 1489.6) * -22.0", 0],
+						"easing": "linear"
+					}
+				},
+				"rightWingTip": {
+					"rotation": {
+						"vector": [0, "math.cos(query.life_time * 1489.6) * 22.0", 0],
+						"easing": "linear"
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": ["query.target_x_rotation", "query.target_y_rotation", 0],
+						"easing": "linear"
+					},
+					"position": {
+						"vector": ["-this", "math.cos(query.life_time * 343.774) * 1.6 - this", "-this"],
+						"easing": "linear"
+					}
+				},
+				"body": {
+					"rotation": {
+						"vector": ["45.0 - math.cos(query.life_time * 1489.6) * 8.59", 0, 0],
+						"easing": "linear"
+					},
+					"position": {
+						"vector": [0, "math.cos(query.life_time * 343.774) * 1.6", 0],
+						"easing": "linear"
+					}
+				},
+				"leftWing": {
+					"rotation": {
+						"vector": [0, "math.cos(query.life_time * 1489.6) * -45.0", 0],
+						"easing": "linear"
+					},
+					"position": {
+						"vector": ["-this", "-this", "-this"],
+						"easing": "linear"
+					}
+				},
+				"rightWing": {
+					"rotation": {
+						"vector": [0, "math.cos(query.life_time * 1489.6) * 45.0", 0],
+						"easing": "linear"
+					},
+					"position": {
+						"vector": ["-this", "-this", "-this"],
+						"easing": "linear"
+					}
+				}
+			}
+		},
+		"idle": {
+			"loop": true,
+			"bones": {
+				"leftWingTip": {
+					"rotation": {
+						"vector": [0, "math.cos(query.life_time * 1489.6) * -22.0", 0],
+						"easing": "linear"
+					}
+				},
+				"rightWingTip": {
+					"rotation": {
+						"vector": [0, "math.cos(query.life_time * 1489.6) * 22.0", 0],
+						"easing": "linear"
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": ["query.target_x_rotation", "query.target_y_rotation", 0],
+						"easing": "linear"
+					},
+					"position": {
+						"vector": ["-this", "math.cos(query.life_time * 343.774) * 1.6 - this", "-this"],
+						"easing": "linear"
+					}
+				},
+				"body": {
+					"rotation": {
+						"vector": ["45.0 - math.cos(query.life_time * 1489.6) * 8.59", 0, 0],
+						"easing": "linear"
+					},
+					"position": {
+						"vector": [0, "math.cos(query.life_time * 343.774) * 1.6", 0],
+						"easing": "linear"
+					}
+				},
+				"leftWing": {
+					"rotation": {
+						"vector": [0, "math.cos(query.life_time * 1489.6) * -45.0", 0],
+						"easing": "linear"
+					},
+					"position": {
+						"vector": ["-this", "-this", "-this"],
+						"easing": "linear"
+					}
+				},
+				"rightWing": {
+					"rotation": {
+						"vector": [0, "math.cos(query.life_time * 1489.6) * 45.0", 0],
+						"easing": "linear"
+					},
+					"position": {
+						"vector": ["-this", "-this", "-this"],
+						"easing": "linear"
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

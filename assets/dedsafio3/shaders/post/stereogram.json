@@ -1,0 +1,54 @@
+{
+  "targets": [
+    "0",
+    "1"
+  ],
+  "passes": [
+    {
+      "name": "blur",
+      "intarget": "minecraft:main",
+      "outtarget": "0",
+      "uniforms": [
+        {
+          "name": "BlurDir",
+          "values": [ 1.0, 0.0 ]
+        },
+        {
+          "name": "Radius",
+          "values": [ 40.0 ]
+        }
+      ]
+    },
+    {
+      "name": "blur",
+      "intarget": "0",
+      "outtarget": "1",
+      "uniforms": [
+        {
+          "name": "BlurDir",
+          "values": [ 0.0, 1.0 ]
+        },
+        {
+          "name": "Radius",
+          "values": [ 40.0 ]
+        }
+      ]
+    },
+    {
+      "name": "expanded_shaders:stereogram",
+      "intarget": "1",
+      "outtarget": "0",
+      "auxtargets": [
+        {
+          "name": "DiffuseDepthSampler",
+          "id": "minecraft:main:depth"
+        }
+      ]
+    },
+    {
+      "name": "blit",
+      "intarget": "0",
+      "outtarget": "minecraft:main"
+    }
+  ]
+}
